@@ -11,7 +11,7 @@
 
 <sub>🗓️ Developed in June 2026</sub>
 
-This project is a website for **artisan workshops** organized by the **Asociación Cultural Materia**, in collaboration with the Barcelona City Council.
+This project is the **Tailwind CSS version (v2)** of the website for the **artisan workshops** organized by the **Asociación Cultural Materia**. Built as a front-end showcase of utility-first CSS, it combines `@theme` design tokens, `@apply` class extraction, container queries and Flex/Grid layouts on top of an ITCSS structure.  
 
 Developed using version 3.x of [UOC Boilerplate](https://github.com/uoc-advanced-html-css/uoc-boilerplate) as the starter template: a modern frontend development base that includes Parcel, a Sass compiler, an ES6 transpiler, minifiers, an image transformer, and development tools. Created by Jordi Tarrida (jorditarrida@uoc.edu).
 
