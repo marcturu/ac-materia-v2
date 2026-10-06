@@ -1,4 +1,4 @@
-# <img src="src/assets/images/ACMateria.png" alt="Asociación Cultural Materia" width="200"/> — Artisan Workshops v2 (Jornadas Artesanales)
+# <img src="src/assets/images/ACMateria.png" alt="Asociación Cultural Materia" width="200"/> — Responsive web for artisan workshops (v2)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
